@@ -1,2 +1,3 @@
-def reverse_string(s):
-    pass
+
+    reversed_strings = "abcderiou"
+    print(reversed )
